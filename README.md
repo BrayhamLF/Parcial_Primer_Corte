@@ -4,7 +4,7 @@
 - Brayham Orlando Lindarte Fuentes
 - Nicolas Parra Franco
 
-SIMULADOR DE TRÁFICO EN PHYTON
+## **SIMULADOR DE TRÁFICO EN PHYTON**
 
 La Secretaría de Movilidad del municipio ha identificado problemas de congestión vehicular y conductas imprudentes en una intersección vial, lo que dificulta el flujo adecuado del tráfico. Por esta razón, se propone el desarrollo de un simulador de tráfico en Python que represente una intersección con semáforos sincronizados y vehículos en movimiento en diferentes direcciones.
 
