@@ -2,10 +2,6 @@ import tkinter as tk
 import threading
 import time
 
-# ╔══════════════════════════════════════════════════════╗
-# ║         SIMULADOR DE TRÁFICO INTELIGENTE             ║
-# ║    Con hilos, semáforos y vehículos con emojis       ║
-# ╚══════════════════════════════════════════════════════╝
 
 # ── PALETA DE COLORES ──────────────────────────────────
 HIERBA          = "#1b3626"   # Verde bosque
